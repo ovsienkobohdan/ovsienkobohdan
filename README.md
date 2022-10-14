@@ -1,7 +1,9 @@
-
+<!---
 <div align="center">
 <img width="100%" src="https://user-images.githubusercontent.com/30723834/195925880-3613e9d0-4f00-470c-a8cc-19042469ff0b.jpg" alt="cover" />
 </div>
+--->
+
 
 <h1> Hi </h1>
 <p align='center'>
