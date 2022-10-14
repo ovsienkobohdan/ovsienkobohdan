@@ -1,9 +1,10 @@
 
 <div align="center">
-<img height="100%" src="https://media.giphy.com/media/l0MYDEdKjIeco0vFm/giphy.gif" alt="cover" />
+<img src=https://user-images.githubusercontent.com/30723834/195898618-ad32f104-1e04-4679-adef-f7b3b6a4095b.png alt="cover" />
 </div>
 
-<h1> Hello </h1>
+
+<h1> Hi </h1>
 <p align='center'>
 
 </p>
@@ -12,44 +13,47 @@
 
 <h2> About Me </h2>
 
-<img width="20%" align="right" alt="Face" src="https://media.giphy.com/media/4kEuEGSreMP7IWhs7x/giphy.gif"/>
+<ul>
+  <li>🔨 I’m currently working on Automation for personalised Life Style reports generation based on 3 days ECG data.</li>
+  <li>🌱 I’m currently learning Docker, Kubernetes, Generative Art</li>
+  <li>👥 I’m looking to collaborate on Projects, Tech Articles </li>
+  <li>💬 Talk to me about Python, Open Source, AI, Crypto</li>
+</ul>
+
+<img width="30%" align="right" alt="Face" src="https://media.giphy.com/media/IXnygGeB6LPPi/giphy.gif"/>
+
+<h2> Skills </h2>
+
+<ul>
+  <li>
+    Hard
+    <ul>
+      <li>Python, LaTex, SQL</li>
+      <li>OpenCV, NLTK</li>
+      <li>PyTorch, TensorFlow, Scikit-Learn, NumPy, Scipy, Pandas, Matplotlib, Plotly, Jupiter, Reportlab, BioSPPy</li>
+      <li>BigQuery, TensorBoard, UnitTests, Memory profiling</li>
+    </ul>
+  </li>
+<li>
+    Soft
+    <ul>
+      <li>Communication</li>
+      <li>Teamwork</li>
+      <li>Problem-solving</li>
+      <li>Work ethic</li>
+    </ul>
+  </li>
+</ul>
 
 
-- 🔭 I’m currently working on Automation for personalised Life Style reports generation based on 3 days ECG data.
+<h2> Connect with me </h2>
+<ul>
+  <li><a href = 'https://www.linkedin.com/in/ovsienkobohdan/'>LinkedIn</a></li>
+  <li><a href = 'https://medium.com/@ovsienkobohdan'>Medium</a></li>
+  <li><a href = 'https://twitter.com/ovsienkobohdan'>Twitter</a></li>
+  <li><a href = "mailto: ovsienko.bohdan@gmail.com">Send Email</a></li>
+</ul>
 
-- 🌱 I’m currently learning MLOPs, Data Bases 
-
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
-
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
-
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=opencv&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/30723834?tab=repositories&q=&type=&language=tensorflow&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.linkedin.com/in/ovsienkobohdan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/https://twitter.com/ovsienkobohdan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@ovsienkobohdan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/30723834'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-
-
-- 👋 Hi, I’m @ovsienkobohdan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 ovsienkobohdan/ovsienkobohdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
