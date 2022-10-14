@@ -1,8 +1,7 @@
 
 <div align="center">
-<img src=https://user-images.githubusercontent.com/30723834/195898618-ad32f104-1e04-4679-adef-f7b3b6a4095b.png alt="cover" />
+<img width="100%" src="https://user-images.githubusercontent.com/30723834/195925880-3613e9d0-4f00-470c-a8cc-19042469ff0b.jpg" alt="cover" />
 </div>
-
 
 <h1> Hi </h1>
 <p align='center'>
@@ -20,7 +19,7 @@
   <li>💬 Talk to me about Python, Open Source, AI, Crypto</li>
 </ul>
 
-<img width="30%" align="right" alt="Face" src="https://media.giphy.com/media/IXnygGeB6LPPi/giphy.gif"/>
+<img width="28%" align="right" alt="Profile" src="https://media.giphy.com/media/26uf8tQf6WVQPxP9u/giphy.gif"/>
 
 <h2> Skills </h2>
 
